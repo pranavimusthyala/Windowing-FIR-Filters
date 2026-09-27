@@ -15,9 +15,11 @@ A **Hamming window** is used for filter design.
 
 ## 📁 Files
 
-* `Band_Pass_Filter.m` – Designs and plots the FIR Band-Pass filter.
-* `Band_Stop_Filter.m` – Designs and plots the FIR Band-Stop filter.
-
+* `Band_Pass_Filter.m` – Design of FIR Band-Pass filter.
+* `Band_Pass_Filter.png` – Plot of FIR Band-Pass filter.
+* `Band_Stop_Filter.m` – Design of FIR Band-Stop filter.
+* `Band_Stop_Filter.png` – Plot of FIR Band-Stop filter.
+  
 ## 🛠️ Software
 
 **MATLAB**
